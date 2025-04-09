@@ -66,3 +66,11 @@ npm run lint
 - **Estilo Consistente**: Se mantuvo un estilo consistente en todos los componentes para una experiencia de usuario cohesiva.
 - **Modal Responsivo**: Diseñado para funcionar bien en todos los tamaños de pantalla con ajustes de estilo apropiados.
 - **Navegación Accesible**: Implementación de navegación clara con elementos HTML semánticos adecuados.
+
+
+### Posibles mejoras
+
+- **Testing integral**: Implementar testing integral y end-to-end para verificar que todo funciona como se espera.
+- **Blur para las imagenes**: las imagenes pueden tardar en cargar en algunos casos. Implementaria algun tipo de skeleton con blur para las imagenes.
+- **Styled files**: los styled components los implementaria en un file distinto para los componentes relacionados.
+- **Filtro en la URL**: guardaria el filtro por año en la URL para que pueda ser compartida esa vista.
